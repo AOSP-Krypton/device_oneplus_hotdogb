@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/yaap_hotdogb.mk
+    $(LOCAL_DIR)/krypton_hotdogb.mk
