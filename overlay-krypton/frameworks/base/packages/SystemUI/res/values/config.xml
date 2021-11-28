@@ -25,6 +25,6 @@
     <color name="config_udfpsColor">#00ffff</color>
 
      <!-- Offset for alert slider dialog from status bar -->
-    <integer name="config_alertSliderOffset">800</integer>
+    <integer name="config_alertSliderOffset">613</integer>
 
 </resources>
