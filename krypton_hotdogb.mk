@@ -11,8 +11,8 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit from hotdogb device
 $(call inherit-product, device/oneplus/hotdogb/device.mk)
 
-# Inherit some common KOSP stuff.
-$(call inherit-product, vendor/krypton/configs/KryptonCommon.mk)
+# Inherit some common krypton stuff.
+$(call inherit-product, vendor/krypton/config/common_full_phone.mk)
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := krypton_hotdogb
