@@ -31,9 +31,6 @@ PRODUCT_COPY_FILES += \
 # Mark as official build
 OFFICIAL_BUILD := true
 
-# OnePlus apps
-$(call inherit-product, vendor/oneplus/apps/hotdogb/config.mk)
-
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
