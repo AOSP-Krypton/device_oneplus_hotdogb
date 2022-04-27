@@ -1,6 +1,6 @@
-#  All unpinned blobs below are extracted from OnePlus7TOxygen_14.O.32_OTA_0320_all_2202112234_3f24a87f818973
+#  All unpinned blobs below are extracted from qssi-user-11-RKQ1.201022.002-2204061635-release-keys 
 
-# ACDB
+#ACDB
 vendor/etc/acdbdata/adsp_avs_config.acdb
 vendor/etc/acdbdata/MTP/EU/acdb_version
 vendor/etc/acdbdata/MTP/EU/MTP_Bluetooth_cal.acdb
