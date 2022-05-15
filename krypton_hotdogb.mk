@@ -14,6 +14,8 @@ $(call inherit-product, device/oneplus/hotdogb/device.mk)
 # Inherit some common krypton stuff.
 $(call inherit-product, vendor/krypton/config/common_full_phone.mk)
 
+TARGET_BUILD_LAWNCHAIR := true
+
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := krypton_hotdogb
 PRODUCT_DEVICE := hotdogb
